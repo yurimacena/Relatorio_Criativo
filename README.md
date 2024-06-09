@@ -1,1 +1,3 @@
-# Relatorio_de_Vendas
+# Projeto: Criação de um Relatório Gerencial de Vendas com Power BI
+
+O projeto utiliza dos dados da sample financials do própro Power BI. Foi utilizado diversos visuais padrões e instalados para melhor visualização dos dados e torná-los mais amigáveis para fácil compreensão, além do uso de botões para melhorar a interatividade e liberdade para o visualizador poder ver os dados em diferentes anos e contextos. A utilização de cores e logo diferem do que foi o projeto original, isso foi feito para tornar este projeto aqui mais único e criativo, sem atrapalhar as funcionalidades originais e principais.
